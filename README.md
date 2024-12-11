@@ -1,6 +1,6 @@
 A complete MERN stack interview prep 
 
-Here’s a 10-day study guide, leaving 4 days for review, practice, and algorithm questions, so you're fully prepared by Day 15. This guide covers essential topics aligned with the job posting and the likely technical tasks.
+Here’s a 10-day study guide
 
 **Day 1: HTML & CSS Fundamentals**
 Topics to Study:
